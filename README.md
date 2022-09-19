@@ -18,8 +18,11 @@ Cancellation is free. However, if this is the third (or more) consecutive cancel
 
 ### Tables in the database
 members
+
 pending_terminations
+
 rooms
+
 bookings
 
 ### View in the database
