@@ -47,6 +47,7 @@ check_cancellation
 
 You can read the full report [here](https://medium.com/@tundeakeredolu/sports-complex-database-using-mysql-6b67d7abd571) 
 
+
 Other relevant links:
 
 [Medium article](https://medium.com/@tundeakeredolu/sports-complex-database-using-mysql-6b67d7abd571)
