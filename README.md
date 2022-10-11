@@ -30,13 +30,21 @@ member_bookings
 
 ### Stored Procedures in the database
 insert_new_member
+
 delete_member
+
 update_member_password
+
 update_member_email
+
 make_booking
+
 update_payment
+
 view_bookings
+
 search_room
+
 cancel_booking
 
 ### Trigger in the database
